@@ -1,0 +1,14 @@
+pymupdf
+pytesseract
+pillow
+psycopg2-binary
+flask
+flask-cors
+sqlalchemy
+alembic
+langchain
+langchain-community
+langchain-openai
+langchain-core
+langchain-text-splitters
+python-dotenv
